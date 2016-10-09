@@ -1,2 +1,4 @@
 # hello-world
-Just another hello-world repository to get started.
+Hi stranger!
+
+Lulu here, just getting started. New to Github and excited to start contributing.
